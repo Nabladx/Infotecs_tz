@@ -1,7 +1,3 @@
-# Infotecs_tz
-test
-# Infotecs_tz
-test
 Тестовое задание от ИнфоТекс. Таблица, генерируемая на основе json файла.
 Посмотреть можно по ссылке: https://aknietkh.github.io/Infotecs_tz/
 
